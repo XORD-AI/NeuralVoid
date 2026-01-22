@@ -45,5 +45,5 @@ NeuralVoid null-routes these endpoints via the Windows hosts file:
 3. Open your Command Prompt **as Administrator**.
 4. Run the script: `python NeuralVoid_Source.py`
 
-![NeuralVoid Shield](https://xord.io/intelligence/XORD_AI_Kill_Switch.jpg)
+<img src="https://xord.io/intelligence/XORD_AI_Kill_Switch.jpg" width="75%" alt="NeuralVoid Shield">
 
