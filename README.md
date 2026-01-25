@@ -8,6 +8,14 @@
 
 ---
 
+🛡️ Windows Defender SmartScreen Notice:
+NeuralVoid.exe is not digitally signed, so Microsoft Defender may show a warning. This is standard for new utilities built with Python/PyInstaller. You may click "More Info" → "Run Anyway" to proceed.
+
+✅ The SHA256 hash of the current safe release is:
+c832b5ab53222bc1199da49fa54844d8e728291f1b4df500fb806f8e6cdc9c0a
+
+We recommend verifying this hash after download.
+
 ## What It Blocks
 
 NeuralVoid null-routes these endpoints via the Windows hosts file:
